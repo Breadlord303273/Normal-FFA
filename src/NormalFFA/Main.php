@@ -35,7 +35,7 @@ use pocketmine\entity\Entity;
 use pocketmine\entity\Human;
 use pocketmine\nbt\tag\{ByteTag, CompoundTag, DoubleTag, FloatTag, StringTag, ListTag, ShortTag, IntTag};
 
-class Main extends PluginBase implements Listener{
+class extends PluginBase implements Listener{
 	
 	public $notpermission = "You have not permissions to use this command!";
 	public $commandnotconsole = "This command can be used only in-game!";

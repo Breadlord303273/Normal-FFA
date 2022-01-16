@@ -1,11 +1,11 @@
 <?php
 
  
-namespace FFA\task;
+namespace NormalFFA\task;
 
 use pocketmine\scheduler\Task;
-use FFA\Main;
-use FFA\entity\EntityJoinFFA;
+use NormalFFA\Main;
+use NormalFFA\entity\EntityJoinFFA;
 use pocketmine\plugin\Plugin;
 use pocketmine\entity\Entity;
 use pocketmine\item\Item;

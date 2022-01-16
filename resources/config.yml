@@ -1,0 +1,21 @@
+---
+
+
+# Setup for arena
+arena: "FFA"
+nameserver: "§l§cNormal"
+
+# Armor for players
+leggings: 308
+boots: 309
+helmet: 306
+chestplate: 307
+
+# Items for players
+items: 
+    - ['267', '0', '1']   
+    - ['346', '0', '1']
+    - ['322', '0', '5']
+    - ['261', '0', '1']
+    - ['262', '0', '64']
+...
